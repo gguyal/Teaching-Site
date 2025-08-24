@@ -4,3 +4,6 @@
 ### Improving your Instructions for your robotic friend
 [![Explain Your Program](https://img.youtube.com/vi/txrOP24rl9Y/0.jpg)](https://youtu.be/txrOP24rl9Y)
 [![Write and Explain Your Program](https://img.youtube.com/vi/OnRPtDq2IiQ/0.jpg)](https://youtu.be/OnRPtDq2IiQ)
+
+### Conditional Loops Write a Program
+[![Write and Explain Your Program](https://img.youtube.com/vi/j8jRXxLbmMY/0.jpg)](https://youtu.be/j8jRXxLbmMY)
