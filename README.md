@@ -7,3 +7,6 @@
 
 ### Conditional Loops Write a Program
 [![Write and Explain Your Program](https://img.youtube.com/vi/j8jRXxLbmMY/0.jpg)](https://youtu.be/j8jRXxLbmMY)
+
+### Nest If/Else Statements
+[![Nested If/Else Statements](https://img.youtube.com/vi/-J1H5liZNzE/0.jpg)](https://youtu.be/-J1H5liZNzE)
