@@ -10,3 +10,6 @@
 
 ### Nest If/Else Statements
 [![Nested If/Else Statements](https://img.youtube.com/vi/-J1H5liZNzE/0.jpg)](https://youtu.be/-J1H5liZNzE)
+
+### Comoound Conditionals
+[![Compound Conditionals](https://img.youtube.com/vi/I8RWkRIPVpI/0.jpg)](https://youtu.be/I8RWkRIPVpI)
